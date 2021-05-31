@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59333835"
-     inkscape:cx="721.83335"
-     inkscape:cy="503.05695"
+     inkscape:zoom="1.6782143"
+     inkscape:cx="396.85039"
+     inkscape:cy="406.65781"
      inkscape:document-units="mm"
      inkscape:current-layer="g59"
      inkscape:document-rotation="0"
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,25 +81,30 @@
                  id="g59"
                  inkscape:export-xdpi="607.97516"
                  inkscape:export-ydpi="607.97516">
-                <ellipse
-                   style="fill:#552200;stroke-width:2.08565"
-                   id="ellipse47"
-                   cx="101.18015"
-                   cy="104.90918"
-                   rx="48.906235"
-                   ry="70.446747" />
-                <ellipse
-                   style="fill:#ffffff;stroke-width:1.72671"
-                   id="ellipse12"
-                   cx="101.18015"
-                   cy="104.90918"
-                   rx="36.489487"
-                   ry="64.716438" />
-                <path
-                   style="fill:#501616;stroke:#502d16;stroke-width:0.400565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                   d="m 94.547439,35.975801 c 23.429131,101.596979 12.970101,82.992649 -0.423098,137.003749 1.429623,0.79834 0.635015,2.26437 1.430078,0.75017 22.269011,-42.4113 24.428331,-62.59333 0.633948,-138.192126 -0.197249,-0.626692 -1.440395,1.073612 -1.640928,0.438207 z"
-                   id="path28"
-                   sodipodi:nodetypes="ccssc" />
+                <g
+                   id="g131"
+                   inkscape:export-xdpi="607.97516"
+                   inkscape:export-ydpi="607.97516">
+                  <ellipse
+                     style="fill:#552200;stroke-width:2.08565"
+                     id="ellipse47"
+                     cx="101.18015"
+                     cy="104.90918"
+                     rx="48.906235"
+                     ry="70.446747" />
+                  <ellipse
+                     style="fill:#ffffff;stroke-width:1.72671"
+                     id="ellipse12"
+                     cx="101.18015"
+                     cy="104.90918"
+                     rx="36.489487"
+                     ry="64.716438" />
+                  <path
+                     style="fill:#552200;stroke:#552200;stroke-width:0.400565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                     d="m 94.547439,35.975801 c 23.429131,101.596979 12.970101,82.992649 -0.423098,137.003749 1.429623,0.79834 0.635015,2.26437 1.430078,0.75017 22.269011,-42.4113 24.428331,-62.59333 0.633948,-138.192126 -0.197249,-0.626692 -1.440395,1.073612 -1.640928,0.438207 z"
+                     id="path28"
+                     sodipodi:nodetypes="ccssc" />
+                </g>
               </g>
             </g>
           </g>

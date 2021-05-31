@@ -30,7 +30,7 @@
      inkscape:cx="229.60123"
      inkscape:cy="364.4236"
      inkscape:document-units="mm"
-     inkscape:current-layer="g84"
+     inkscape:current-layer="g248"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -89,25 +89,30 @@
                      id="g248"
                      inkscape:export-xdpi="607.97516"
                      inkscape:export-ydpi="607.97516">
-                    <ellipse
-                       style="fill:#552200;stroke-width:2.41849"
-                       id="ellipse47"
-                       cx="101.18015"
-                       cy="104.90918"
-                       rx="48.906235"
-                       ry="94.725449" />
-                    <ellipse
-                       style="fill:#ffffff;stroke-width:1.92252"
-                       id="ellipse12"
-                       cx="101.18015"
-                       cy="104.90918"
-                       rx="36.489487"
-                       ry="80.226105" />
-                    <path
-                       style="fill:#501616;stroke:#502d16;stroke-width:0.400565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                       d="M 93.019392,24.493619 C 118.96713,119.17073 77.031583,134.67941 91.024589,185.815 c 1.429623,0.79834 5.70283,0.5002 5.70283,0.5002 2.233224,-49.41795 34.075171,-87.792896 2.430628,-163.391692 -0.253683,-0.606049 -5.938122,2.205516 -6.138655,1.570111 z"
-                       id="path28"
-                       sodipodi:nodetypes="ccssc" />
+                    <g
+                       id="g136"
+                       inkscape:export-xdpi="607.97516"
+                       inkscape:export-ydpi="607.97516">
+                      <ellipse
+                         style="fill:#552200;stroke-width:2.41849"
+                         id="ellipse47"
+                         cx="101.18015"
+                         cy="104.90918"
+                         rx="48.906235"
+                         ry="94.725449" />
+                      <ellipse
+                         style="fill:#ffffff;stroke-width:1.92252"
+                         id="ellipse12"
+                         cx="101.18015"
+                         cy="104.90918"
+                         rx="36.489487"
+                         ry="80.226105" />
+                      <path
+                         style="fill:#552200;stroke:#552200;stroke-width:0.400565px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                         d="M 93.019392,24.493619 C 118.96713,119.17073 77.031583,134.67941 91.024589,185.815 c 1.429623,0.79834 5.70283,0.5002 5.70283,0.5002 2.233224,-49.41795 34.075171,-87.792896 2.430628,-163.391692 -0.253683,-0.606049 -5.938122,2.205516 -6.138655,1.570111 z"
+                         id="path28"
+                         sodipodi:nodetypes="ccssc" />
+                    </g>
                   </g>
                 </g>
               </g>
